@@ -1,5 +1,6 @@
 # BinarySearch
 二分查找-BinarySearch
+
 def BinarySearch(arr,low,high,key):
     if high<low:
         return  
